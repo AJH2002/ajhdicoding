@@ -1,0 +1,3 @@
+APP_URL=https://your-app-url-after-deployment
+MAP_SERVICE_API_KEY=<api_key>
+
